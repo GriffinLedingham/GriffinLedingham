@@ -1,6 +1,6 @@
 ### Hi, I'm Griffin! 👋
 
-I'm a Tech Lead at [🎮 Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [⚡ Pikalytics](https://pikalytics.com). My projects are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
+I'm a Tech Lead at [🎮 Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [⚡ Pikalytics](https://pikalytics.com). My hobby projects here are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
 
 ## Configuration
 
