@@ -1,6 +1,6 @@
 ### Hi, I'm Griffin! 👋
 
-I'm a Tech Lead at [🎮 Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [⚡ Pikalytics](https://pikalytics.com). My hobby projects here are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
+I'm a Tech Lead at [🎮  Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [⚡ Pikalytics](https://pikalytics.com). My hobby projects here are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
 
 ## Configuration
 
@@ -45,6 +45,10 @@ A collection of competitive Pokemon resources I've built over time for use with 
 - [🎮 Phaser JS Phonegap Starter](https://github.com/GriffinLedingham/phaser-phonegap-game) - Boilerplate Phaser JS + Phonegap implementation, with Node.js and Socket.io networking.
 - [🎮 CLI Rougelike WIP](https://github.com/GriffinLedingham/rog) - An intitial rendering/movement implementation of a CLI roguelike in Node.js.
 - [🎮 SSBStats.com](https://github.com/GriffinLedingham/SSBStats) - Track Smash Bros Melee game results.
+
+## ???
+
+- [🍟 McDank Calc](https://github.com/GriffinLedingham/mcdank-calc/) - A McDonalds optimization problem solver.
 
 <!--
 **GriffinLedingham/GriffinLedingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
