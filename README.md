@@ -30,6 +30,21 @@ A collection of competitive Pokemon resources I've built over time for use with 
 - [🎮 PikaCalc](https://github.com/GriffinLedingham/pikacalc) - A CLI for batching [Smogon Damage Calc](https://github.com/smogon/damage-calc) calculations, and running data mining operations on them.
 - [🎮 Go Battle Sim Node](https://github.com/GriffinLedingham/GoBattleSimNode) - Run GoBattleSim Pokemon GO raid calculations from CLI.
 - [📊 Type Usage Statistics](https://gist.github.com/GriffinLedingham/1b43ac2dec7d84318efbf670edb139c7) - Generate Pokemon and Move type usage statistics based on Smogon usage statistics.
+- [📊 PoGoDex](https://github.com/GriffinLedingham/go-tips) - Legacy Pokemon GO information/statistics [website](http://pogo-dex.com).
+- [📊 Pikalytics Alexa Skill](https://github.com/GriffinLedingham/pikalytics-skill) - Have Alexa fetch you usage statistics from Pikalytics, because why not.
+
+## Game Projects
+
+- [🐍 BattleSnake 2020 WIP](https://github.com/GriffinLedingham/bs2020) - My WIP BattleSnake that I had started for use in the 2020 events, based on my 2019 Expert Division snake OpieToo.
+- [🐍 Battle Snake Debugger](https://github.com/GriffinLedingham/battle-snake-debugger) - A debugger that hooks into MiniMax-based BattleSnake implementations to step through massively recursive decision trees.
+- [🐍 Kano Lunch n' Learn BattleSnake](https://github.com/GriffinLedingham/KanoLnLSnake) - Offline BattleSnake simulator, built for a Lunch n' Learn presentation at [Kano](https://kanoapps.com).
+- [🐍Kano BattleSnake 2018](https://github.com/GriffinLedingham/KanoBattleSnake) - Team Kano BattleSnake entry in the 2018 event, finished 4th in the intermediate division.
+- [⌨ World of Warcraft Keybind Trainer](https://github.com/GriffinLedingham/binding-trainer) - Practice World of Warcraft keybind reaction time.
+- [🎮 Classic.Group](https://github.com/GriffinLedingham/classic.group) - World of Warcraft Classic Looking For Group tool.
+- [📊 WTFDPS.com](https://github.com/GriffinLedingham/wtfdps) - A World of Warcraft SimCraft abstraction in the browser.
+- [🎮 Phaser JS Phonegap Starter](https://github.com/GriffinLedingham/phaser-phonegap-game) - Boilerplate Phaser JS + Phonegap implementation, with Node.js and Socket.io networking.
+- [🎮 CLI Rougelike WIP](https://github.com/GriffinLedingham/rog) - An intitial rendering/movement implementation of a CLI roguelike in Node.js.
+- [🎮 SSBStats.com](https://github.com/GriffinLedingham/SSBStats) - Track Smash Bros Melee game results.
 
 <!--
 **GriffinLedingham/GriffinLedingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
