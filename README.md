@@ -38,7 +38,7 @@ A collection of competitive Pokemon resources I've built over time for use with 
 - [🐍 BattleSnake 2020 WIP](https://github.com/GriffinLedingham/bs2020) - My WIP BattleSnake that I had started for use in the 2020 events, based on my 2019 Expert Division snake OpieToo.
 - [🐍 Battle Snake Debugger](https://github.com/GriffinLedingham/battle-snake-debugger) - A debugger that hooks into MiniMax-based BattleSnake implementations to step through massively recursive decision trees.
 - [🐍 Kano Lunch n' Learn BattleSnake](https://github.com/GriffinLedingham/KanoLnLSnake) - Offline BattleSnake simulator, built for a Lunch n' Learn presentation at [Kano](https://kanoapps.com).
-- [🐍Kano BattleSnake 2018](https://github.com/GriffinLedingham/KanoBattleSnake) - Team Kano BattleSnake entry in the 2018 event, finished 4th in the intermediate division.
+- [🐍 Kano BattleSnake 2018](https://github.com/GriffinLedingham/KanoBattleSnake) - Team Kano BattleSnake entry in the 2018 event, finished 4th in the intermediate division.
 - [⌨ World of Warcraft Keybind Trainer](https://github.com/GriffinLedingham/binding-trainer) - Practice World of Warcraft keybind reaction time.
 - [🎮 Classic.Group](https://github.com/GriffinLedingham/classic.group) - World of Warcraft Classic Looking For Group tool.
 - [📊 WTFDPS.com](https://github.com/GriffinLedingham/wtfdps) - A World of Warcraft SimCraft abstraction in the browser.
