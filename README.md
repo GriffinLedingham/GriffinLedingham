@@ -52,6 +52,7 @@ A collection of competitive Pokemon resources I've built over time for use with 
 ## ???
 
 - [🍟 McDank Calc](https://github.com/GriffinLedingham/mcdank-calc/) - A McDonalds optimization problem solver.
+- [🐵 ApeSanctuary](https://github.com/GriffinLedingham/apesanctuary) - Sometimes friends make hilarious bets with each other, so you have to laugh at them.
 
 <!--
 **GriffinLedingham/GriffinLedingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
