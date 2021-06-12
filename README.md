@@ -34,6 +34,7 @@ A collection of competitive Pokemon resources I've built over time for use with 
 - [📊 Type Usage Statistics](https://gist.github.com/GriffinLedingham/1b43ac2dec7d84318efbf670edb139c7) - Generate Pokemon and Move type usage statistics based on Smogon usage statistics.
 - [📊 PoGoDex](https://github.com/GriffinLedingham/go-tips) - Legacy Pokemon GO information/statistics [website](http://pogo-dex.com).
 - [📊 Pikalytics Alexa Skill](https://github.com/GriffinLedingham/pikalytics-skill) - Have Alexa fetch you usage statistics from Pikalytics, because why not.
+- [🎮 Pokemon Tiebreak Calc](https://github.com/GriffinLedingham/pokemon-tiebreak) - Help sort out tournament tiebreakers in competitive Pokemon Sword & Shield.
 
 ## Game Projects
 
