@@ -22,6 +22,8 @@ A collection of plugins, tools and scripts.
 
 A collection of competitive Pokemon resources I've built over time for use with Pikalytics, and random spin-off projects.
 
+- [🎮 Pikalytics Calc](https://github.com/GriffinLedingham/pikalytics-calc) - My personal fork of the Pikalytics Damage Calculator (simulates Pokemon battle calculations for team building). This is the repository that I use to make changes to the website's live calculator through PR's.
+- [🎮 Pikalytics Damage Calc](https://github.com/GriffinLedingham/damage-calc) - My personal fork of the under-the-hood component of the Pikalytics Damage Calculator. This is the repository that I use to make changes to the website's live calculator backend through PR's.
 - [📊 Pokemon Showdown Log Parser](https://github.com/GriffinLedingham/showdown-parser) - Parser to convert raw battle logs from Pokemon Showdown into usage statistics.
 - [📈 Smogon Usage Parser](https://github.com/GriffinLedingham/smogon-usage-parser) - Fetch and parse Smogon usage statistics into aggregated JSON/CSV output formats.
 - [📈 Pokemon Home Diff](https://github.com/GriffinLedingham/pikalytics-diff) - Calculate changes in the Battle Stadium metagame between two sets of Pokemon Home rankings.
