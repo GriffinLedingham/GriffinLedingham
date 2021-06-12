@@ -17,6 +17,7 @@ A collection of plugins, tools and scripts.
 - [🗝 Cordova Sign In With Apple Plugin](https://github.com/GriffinLedingham/cordova-plugin-apple-authentication-ka) - Cordova plugin which adds support for Sign In With Apple.
 - [🏡 MLS Real Estate Listing Crawler](https://github.com/GriffinLedingham/mls) - MLS Real Estate Listing crawler & emailer for house hunting.
 - [📖 Node Markdown Blog Starter](https://github.com/GriffinLedingham/node-blog-starter) - My blog starter built on Node.js and Markdown.
+- [🎭 Puppeteer Performance Profiler](https://github.com/GriffinLedingham/puppeteer-profile) - A profiler library for Google's [Puppeteer](https://github.com/puppeteer/puppeteer) headless-Chrome integration test runner. This allows you to easily profile heap, timings, and various metrics from your Puppeteer runs.
 - [☁️ Slack Word Cloud Generator](https://github.com/GriffinLedingham/slack-wordcloud) - Generate a word cloud with [amueller/word_cloud](https://github.com/amueller/word_cloud) from a set of Slack log exports.
 
 ## Pokemon Resources
