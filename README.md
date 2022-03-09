@@ -1,6 +1,6 @@
 ### Hi, I'm Griffin! 👋
 
-I'm an engineer at [<img src="https://avatars.githubusercontent.com/u/49170518?s=200&v=4" height=16 width=16 /> Defined Finance](https://defined.fi), and former Tech Lead at [🎮  Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [⚡ Pikalytics](https://pikalytics.com). My hobby projects here are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
+I'm an engineer at [<img src="https://avatars.githubusercontent.com/u/49170518?s=200&v=4" height=16 width=16 /> Defined Finance](https://defined.fi), and former Tech Lead at [🎮  Kano](https://kanoapps.com) in beautiful Victoria, BC. In my free time, I run a popular Pokemon fansite called [<img src="https://cdn.pikalytics.com/images/header-icon_v2.png" height=16 width=16 /> Pikalytics](https://pikalytics.com). My hobby projects here are generally focused around games, Pokemon, and projects adjacent to the game industry. Check them out!
 
 ## Configuration
 
